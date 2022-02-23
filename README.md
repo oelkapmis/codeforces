@@ -1,5 +1,5 @@
 # codeforces
-In this repository I share my solutions for codeforces problems.
+In this repository I share my solutions for [codeforces](https://codeforces.com/) problems.
 
 Each directory has a question file and a kotlin file for the solution.
 
